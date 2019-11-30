@@ -8,4 +8,4 @@ install:
 
 script: 
 - gcc hello.c -o hello -lcurl
--./hello
+- ./hello
